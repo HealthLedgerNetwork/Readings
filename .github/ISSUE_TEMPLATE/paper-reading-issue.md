@@ -7,7 +7,15 @@ assignees: Sorinenachioiu
 
 ---
 
-# Paper author and company/university
-<paper_author> from <author_university>
-# Paper subject
-<paper_subject>
+# Paper Information
+
+## Paper Author and Affiliation
+- **Author(s):** <paper_author>
+- **Affiliation(s):** <author_university>
+
+## Paper Subject
+- **Title:** <paper_subject>
+- **Abstract:** <brief_abstract>
+
+# Reasons for Selecting This Paper
+<reasons>
