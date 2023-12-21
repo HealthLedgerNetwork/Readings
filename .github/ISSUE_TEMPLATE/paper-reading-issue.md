@@ -7,9 +7,7 @@ assignees: Sorinenachioiu
 
 ---
 
-# Paper title
-<paper_title>
-# Paper author
-<paper_author>
+# Paper author and company/university
+<paper_author> from <author_university>
 # Paper subject
 <paper_subject>
