@@ -14,8 +14,9 @@ assignees: Sorinenachioiu
 - **Affiliation(s):** <author_university>
 
 ## Paper Subject
-- **Title:** <paper_subject>
-- **Abstract:** <brief_abstract>
+- **Subject:** <paper_subject>
+- **Abstract:** 
+  - <brief_abstract>
 
 # Reasons for Selecting This Paper
 <reasons>
